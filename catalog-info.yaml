@@ -5,6 +5,7 @@ metadata:
   description: "Demo CRUD Springboot App with Swagger & H2DB"
   annotations:
     github.com/project-slug: abbhishekpandey47/demo
+    backstage.io/techdocs-ref: value
   links:
     - url: "https://www.baeldung.com/spring-boot-h2-database"
       title: "Learn more about H2DB"
