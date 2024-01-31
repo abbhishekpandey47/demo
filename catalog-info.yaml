@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "demo"
+  name: "Springboot Demo App"
   description: "Demo CRUD Springboot App with Swagger & H2DB"
   annotations:
     github.com/project-slug: abbhishekpandey47/demo
