@@ -5,6 +5,22 @@ metadata:
   description: "Demo CRUD Springboot App with Swagger & H2DB"
   annotations:
     github.com/project-slug: abbhishekpandey47/demo
+  links:
+    - url: "https://www.baeldung.com/spring-boot-h2-database"
+      title: "Learn more about H2DB"
+      icon: book   
+    - url: "https://spring.io/projects/spring-boot"
+      title: "Learn more about Springboot"
+      icon: book
+    - url: "https://swagger.io/"
+      title: "Learn more about Swagger"
+      icon: book
+    - url: "https://swagger.io/tools/swagger-ui//"
+      title: "Learn more about Swagger UI"
+      icon: book
+    - url: "https://microservices.io/"
+      title: "What is Microservices?"
+      icon: book
 spec:
   type: service
   owner: user:guest
