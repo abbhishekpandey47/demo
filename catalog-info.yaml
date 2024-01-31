@@ -5,10 +5,6 @@ metadata:
   description: "Demo CRUD Springboot App with Swagger & H2DB"
   annotations:
     github.com/project-slug: abbhishekpandey47/demo
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:guest
